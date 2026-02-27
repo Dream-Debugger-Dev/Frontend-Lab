@@ -1,0 +1,13 @@
+.paragraph {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.font-change {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
