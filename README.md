@@ -20,7 +20,7 @@ The laboratory is divided into three core technologies. Code is organized by con
 | Folder | Core Focus | Status |
 | :--- | :--- | :--- |
 | **`01-HTML-Structure`** | Semantic tags, forms, tables, DOM architecture. | 🟢 Active |
-| **`02-CSS-Styling`** | Flexbox, Grid, Neon animations, responsive design. | 🟡 Standby |
+| **`02-CSS-Styling`** | Flexbox, Grid, Neon animations, responsive design. | 🟢 Active |
 | **`03-JS-Logic`** | DOM manipulation, event listeners, APIs. | 🟡 Standby |
 
 ---
