@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+
+.covid-19-bg-container {
+    background-color: white;
+    width: 450px;
+    background-size: cover;
+}
+
+.covid-19-top-section {
+    margin: 10px;
+}
+
+.covid-19-top-section-text-item {
+    padding: 10px;
+}
+
+.covid-19-top-section-heading {
+    font-family: 'Roboto';
+    color: #323f4b;
+    font-size: 18px;
+
+
+}
+
+.covid-19-images {
+    padding: 10px;
+
+}
+
+.covid-19-test-card {
+    background-color: #0967d219;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+
+}
+
+.covid-19-test-card-text-container {
+    padding: 10px;
+}
+
+.covid-19-card-heading {
+    font-family: 'Roboto';
+    color: #323f4b;
+    padding-left: 10px;
+    font-size: 16px;
+
+}
+
+.covid-19-card-paragraph {
+    font-family: 'Roboto';
+    color: #707070;
+    padding-left: 10px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.covid-19-images-virus {
+    width: 48px;
+    height: 48px;
+    margin: 10px;
+}
+
+.covid-19-symptoms-heading {
+    font-family: 'Roboto';
+    color: #323f4b;
+    font-size: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 18px;
+
+}
+
+.symptoms-image-text {
+    font-family: 'Roboto';
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 500;
+    margin: 5px;
+
+}
+
+.covid-19-symptoms-cards-container {
+    padding: 10px;
+}
+
+.covid-19-symptoms-card {
+    width: 85px;
+    border-radius: 10px;
+    margin-left: 35px;
+
+}
+
+.symptoms-image {
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+
+.background-green {
+    background-color: #3ebd93;
+}
+
+.background-pink {
+    background-color: #e668a7;
+}
+
+.background-purple {
+    background-color: #a368fc;
+}
+
+.covid-19-videos-heading {
+    font-family: 'Roboto';
+    color: #323f4b;
+    font-size: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 18px;
+    font-weight: 500;
+}
+
+.covid-19-video-card-container {
+    background-color: #e12d3919;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.covid-19-video-container-text-card {
+    padding: 10px;
+}
